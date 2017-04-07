@@ -3,19 +3,19 @@
         <script src="vendors/bootstrap-datepicker.js"></script>
         <script>
         $(function() {
-<!--             $(".datepicker").datepicker(); -->
-<!--             $(".uniform_on").uniform() -->;
+            $(".datepicker").datepicker(); -->
+            $(".uniform_on").uniform() -->;
             $(".chzn-select").chosen();
-   <!--          $('.textarea').wysihtml5(); -->
+           $('.textarea').wysihtml5(); -->
 
         });
         </script>
 		  
 
 
-   <!-- Le javascript
+  
     ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
+   
     <script src="js/bootstrap-transition.js"></script>
     <script src="js/bootstrap-alert.js"></script>
     <script src="js/bootstrap-modal.js"></script>
